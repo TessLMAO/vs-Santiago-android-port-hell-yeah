@@ -1,0 +1,32 @@
+{
+	"storyName": "SELF SPrinting showdown",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Forces",
+			"santiago",
+			[
+				85,
+				133,
+				244
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Custom Week"
+}
