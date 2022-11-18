@@ -1,0 +1,210 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 30,
+			"anim": "idle",
+			"indices": [],
+			"name": "sonic idle"
+		},
+		{
+			"offsets": [
+				7,
+				-4
+			],
+			"loop": false,
+			"fps": 60,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "sonic left"
+		},
+		{
+			"offsets": [
+				26,
+				-16
+			],
+			"loop": false,
+			"fps": 60,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "sonic down"
+		},
+		{
+			"offsets": [
+				30,
+				14
+			],
+			"loop": false,
+			"fps": 60,
+			"anim": "singUP",
+			"indices": [],
+			"name": "sonic up"
+		},
+		{
+			"offsets": [
+				-27,
+				3
+			],
+			"loop": false,
+			"fps": 60,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "sonic right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				9,
+				-3
+			],
+			"anim": "singLEFTmiss",
+			"fps": 60,
+			"name": "left miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				69,
+				17
+			],
+			"anim": "singDOWNmiss",
+			"fps": 60,
+			"name": "down miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				9,
+				30
+			],
+			"anim": "singUPmiss",
+			"fps": 60,
+			"name": "up miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-29,
+				42
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 60,
+			"name": "right miss",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "guitTransSCRAPPED",
+			"indices": [],
+			"name": "sonic to guitar"
+		},
+		{
+			"offsets": [
+				76,
+				149
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "guitTrans",
+			"indices": [
+				28,
+				29,
+				30,
+				31,
+				32,
+				33,
+				34,
+				35,
+				36,
+				37,
+				38,
+				39,
+				40,
+				41,
+				42,
+				43,
+				44,
+				45,
+				46,
+				47,
+				48,
+				49,
+				50,
+				51,
+				52,
+				53,
+				54,
+				55,
+				56,
+				57,
+				58,
+				59,
+				60,
+				61,
+				62,
+				63,
+				64,
+				65,
+				66,
+				67,
+				68,
+				69,
+				70
+			],
+			"name": "sonic to guitar"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				0
+			],
+			"anim": "no",
+			"fps": 24,
+			"name": "sonic oh no",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				0
+			],
+			"anim": "shut",
+			"fps": 24,
+			"name": "sonic shut up",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/sonicthehedgehog",
+	"position": [
+		0,
+		300
+	],
+	"healthicon": "sonic",
+	"flip_x": true,
+	"healthbar_colors": [
+		26,
+		78,
+		255
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 2
+}
