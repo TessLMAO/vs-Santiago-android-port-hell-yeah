@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="mountains1.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="mountainsWater0000" x="0" y="0" width="1344" height="758.0999999999999"/>
+	<SubTexture name="mountainsWater0001" x="0" y="0" width="1344" height="758.0999999999999"/>
+	<SubTexture name="mountainsWater0002" x="0" y="0" width="1344" height="758.0999999999999"/>
+	<SubTexture name="mountainsWater0003" x="0" y="758.0999999999999" width="1344" height="758.0999999999999"/>
+	<SubTexture name="mountainsWater0004" x="0" y="758.0999999999999" width="1344" height="758.0999999999999"/>
+	<SubTexture name="mountainsWater0005" x="0" y="758.0999999999999" width="1344" height="758.0999999999999"/>
+	<SubTexture name="mountainsWater0006" x="0" y="1516.1999999999998" width="1344" height="758.0999999999999"/>
+	<SubTexture name="mountainsWater0007" x="0" y="1516.1999999999998" width="1344" height="758.0999999999999"/>
+	<SubTexture name="mountainsWater0008" x="0" y="1516.1999999999998" width="1344" height="758.0999999999999"/>
+</TextureAtlas>
