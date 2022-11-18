@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="santiago.png">
+	
+	
+	<SubTexture name="santiago down0000" x="12" y="12" width="185" height="228" frameX="-1" frameY="-4" frameWidth="186" frameHeight="232" />
+	
+	<SubTexture name="santiago down0001" x="12" y="12" width="185" height="228" frameX="-1" frameY="-4" frameWidth="186" frameHeight="232" />
+	
+	<SubTexture name="santiago down0002" x="247" y="12" width="184" height="232" frameX="0" frameY="0" frameWidth="186" frameHeight="232" />
+	
+	<SubTexture name="santiago down0003" x="247" y="12" width="184" height="232" frameX="0" frameY="0" frameWidth="186" frameHeight="232" />
+	
+
+	<SubTexture name="santiago idle0000" x="481" y="12" width="196" height="235" frameX="-5" frameY="-9" frameWidth="204" frameHeight="244" />
+	<SubTexture name="santiago idle0001" x="481" y="12" width="196" height="235" frameX="-5" frameY="-9" frameWidth="204" frameHeight="244" />
+	<SubTexture name="santiago idle0002" x="727" y="12" width="204" height="233" frameX="0" frameY="-11" frameWidth="204" frameHeight="244" />
+	<SubTexture name="santiago idle0003" x="727" y="12" width="204" height="233" frameX="0" frameY="-11" frameWidth="204" frameHeight="244" />
+	<SubTexture name="santiago idle0004" x="982" y="12" width="200" height="241" frameX="-2" frameY="-3" frameWidth="204" frameHeight="244" />
+	<SubTexture name="santiago idle0005" x="982" y="12" width="200" height="241" frameX="-2" frameY="-3" frameWidth="204" frameHeight="244" />
+	<SubTexture name="santiago idle0006" x="1232" y="12" width="195" height="244" frameX="-6" frameY="0" frameWidth="204" frameHeight="244" />
+	<SubTexture name="santiago idle0007" x="1232" y="12" width="195" height="244" frameX="-6" frameY="0" frameWidth="204" frameHeight="244" />
+	<SubTexture name="santiago idle0008" x="1477" y="12" width="194" height="244" frameX="-6" frameY="0" frameWidth="204" frameHeight="244" />
+	<SubTexture name="santiago idle0009" x="1477" y="12" width="194" height="244" frameX="-6" frameY="0" frameWidth="204" frameHeight="244" />
+	<SubTexture name="santiago idle0010" x="1477" y="12" width="194" height="244" frameX="-6" frameY="0" frameWidth="204" frameHeight="244" />
+	<SubTexture name="santiago idle0011" x="1477" y="12" width="194" height="244" frameX="-6" frameY="0" frameWidth="204" frameHeight="244" />
+	<SubTexture name="santiago idle0012" x="1477" y="12" width="194" height="244" frameX="-6" frameY="0" frameWidth="204" frameHeight="244" />
+	<SubTexture name="santiago idle0013" x="1477" y="12" width="194" height="244" frameX="-6" frameY="0" frameWidth="204" frameHeight="244" />
+	<SubTexture name="santiago left0000" x="1721" y="12" width="196" height="243" frameX="0" frameY="0" frameWidth="199" frameHeight="243" />
+	<SubTexture name="santiago left0001" x="1721" y="12" width="196" height="243" frameX="0" frameY="0" frameWidth="199" frameHeight="243" />
+	<SubTexture name="santiago left0002" x="12" y="306" width="197" height="243" frameX="-2" frameY="0" frameWidth="199" frameHeight="243" />
+	<SubTexture name="santiago left0003" x="12" y="306" width="197" height="243" frameX="-2" frameY="0" frameWidth="199" frameHeight="243" />
+	<SubTexture name="santiago left0004" x="12" y="306" width="197" height="243" frameX="-2" frameY="0" frameWidth="199" frameHeight="243" />
+	<SubTexture name="santiago left0005" x="12" y="306" width="197" height="243" frameX="-2" frameY="0" frameWidth="199" frameHeight="243" />
+	<SubTexture name="santiago left0006" x="12" y="306" width="197" height="243" frameX="-2" frameY="0" frameWidth="199" frameHeight="243" />
+	<SubTexture name="santiago left0007" x="12" y="306" width="197" height="243" frameX="-2" frameY="0" frameWidth="199" frameHeight="243" />
+	<SubTexture name="santiago right0000" x="259" y="306" width="205" height="246" frameX="-7" frameY="0" frameWidth="211" frameHeight="246" />
+	<SubTexture name="santiago right0001" x="259" y="306" width="205" height="246" frameX="-7" frameY="0" frameWidth="211" frameHeight="246" />
+	<SubTexture name="santiago right0002" x="514" y="306" width="206" height="241" frameX="0" frameY="-5" frameWidth="211" frameHeight="246" />
+	<SubTexture name="santiago right0003" x="514" y="306" width="206" height="241" frameX="0" frameY="-5" frameWidth="211" frameHeight="246" />
+	<SubTexture name="santiago right0004" x="514" y="306" width="206" height="241" frameX="0" frameY="-5" frameWidth="211" frameHeight="246" />
+	<SubTexture name="santiago right0005" x="514" y="306" width="206" height="241" frameX="0" frameY="-5" frameWidth="211" frameHeight="246" />
+	<SubTexture name="santiago right0006" x="514" y="306" width="206" height="241" frameX="0" frameY="-5" frameWidth="211" frameHeight="246" />
+	<SubTexture name="santiago right0007" x="514" y="306" width="206" height="241" frameX="0" frameY="-5" frameWidth="211" frameHeight="246" />
+	<SubTexture name="santiago up0000" x="770" y="306" width="192" height="261" />
+	<SubTexture name="santiago up0001" x="770" y="306" width="192" height="261" />
+	<SubTexture name="santiago up0002" x="1012" y="306" width="189" height="249" frameX="-2" frameY="-12" frameWidth="192" frameHeight="261" />
+	<SubTexture name="santiago up0003" x="1012" y="306" width="189" height="249" frameX="-2" frameY="-12" frameWidth="192" frameHeight="261" />
+	<SubTexture name="santiago up0004" x="1012" y="306" width="189" height="249" frameX="-2" frameY="-12" frameWidth="192" frameHeight="261" />
+	<SubTexture name="santiago up0005" x="1012" y="306" width="189" height="249" frameX="-2" frameY="-12" frameWidth="192" frameHeight="261" />
+	<SubTexture name="santiago up0006" x="1012" y="306" width="189" height="249" frameX="-2" frameY="-12" frameWidth="192" frameHeight="261" />
+	<SubTexture name="santiago up0007" x="1012" y="306" width="189" height="249" frameX="-2" frameY="-12" frameWidth="192" frameHeight="261" />
+</TextureAtlas>
